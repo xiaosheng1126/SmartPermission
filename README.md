@@ -1,0 +1,2 @@
+# SmartPermission
+一个支持任何地方请求权限的开源库 不需要依赖任何Activity,Fragment,主要以回调形式来实现
